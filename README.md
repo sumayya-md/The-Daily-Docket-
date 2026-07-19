@@ -2,7 +2,7 @@
 
 A card-catalog styled personal task planner — install it on your phone like a real app, no download from an app store required.
 
-**Live app:** https://sumayya-md.github.io/Planner-for-Mobile-Application/
+**Live app:** https://sumayya-md.github.io/The-Daily-Docket-/
 
 ## Features
 
