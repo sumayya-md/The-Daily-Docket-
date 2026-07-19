@@ -1,0 +1,25 @@
+{
+  "name": "The Daily Docket — Task Planner",
+  "short_name": "Docket",
+  "description": "A card-catalog styled daily task planner.",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#20232B",
+  "theme_color": "#20232B",
+  "icons": [
+    {
+      "src": "icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
